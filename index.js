@@ -4,3 +4,6 @@ function addition(a,b){
 function subtraction(c,d){
    return d-c;
 }
+function multiplication(e,f){
+   return e *f;
+}

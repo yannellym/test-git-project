@@ -7,3 +7,8 @@ function subtraction(c,d){
 function multiplication(e,f){
    return e *f;
 }
+function division(g, h){
+   return (g / h);
+}
+
+// Just adding a comment for the functions above
